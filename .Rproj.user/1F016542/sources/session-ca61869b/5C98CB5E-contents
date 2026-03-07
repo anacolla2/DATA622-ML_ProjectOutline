@@ -7,26 +7,6 @@ editor: visual
 jupyter: python3
 ---
 
-# Stage 1:
-
-## ML APP
-
-Home Loan Advisor will provide risk assessment for the acceptance of loans
-
---------------------------------------------------------------------------------
-
-Proposal PDF due March 8th 2026
-
-Links:
-
-[Brightspace Assignment Submission
-Link](https://brightspace.cuny.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=1154247&db=2375393)
-
-[Shared Google
-Doc](https://docs.google.com/document/d/1nHxMm5pH66YhX894JmqK3d-2tTuu8DraojJvufBJ0mE/edit?usp=sharing)
-
---------------------------------------------------------------------------------
-
 ## **1. Problem Definition**
 
 Buying a home is the largest financial decision most people will ever make, yet
@@ -246,6 +226,32 @@ model transparency tab with evaluation metrics.
 
 --------------------------------------------------------------------------------
 
+## Bibliography:
+
+Chen, T., & Guestrin, C. (2016). XGBoost: A scalable tree boosting system.
+Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge
+Discovery and Data Mining.
+
+Chang, W., Cheng, J., Allaire, J., Xie, Y., & McPherson, J. (2023). shiny: Web
+application framework for R. <https://shiny.posit.co>
+
+Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). SMOTE:
+Synthetic minority over-sampling technique. Journal of Artificial Intelligence
+Research, 16, 321–357.
+
+Freddie Mac. (n.d.). Single family loan-level dataset.
+<https://www.freddiemac.com/research/datasets/sf-loanlevel-dataset>
+
+Kuhn, M., & Wickham, H. (2020). Tidymodels: A collection of packages for
+modeling and machine learning using tidyverse principles.
+<https://www.tidymodels.org>
+
+McKee, Amberle. *Mastering Shiny for Python: A Beginner’s Guide to Building
+Interactive Web Applications*, DataCamp, 15 Dec. 2023,
+<https://www.datacamp.com/tutorial/mastering-shiny-for-python-a-beginners-guide-to-building-interactive-web-applications>.
+
+--------------------------------------------------------------------------------
+
 ### Looking Ahead:
 
 ::: {.callout-caution appearance="minimal" icon="false"}
@@ -292,14 +298,10 @@ to make those aspects less challenging.
 Tasks:
 
 -   Create slideshow presentation: \*10 minute goal\*
-    -   Team Intro
-        -   Ana Collado: My name is Ana Collado. I'm a second year Master's
-            student in Data Science. Outside of my studies, I'm a surgical
-            instrument coordinator at a local hospital. This project is my first
-            experience deploying an app. Though my teammates and I shared the
-            work, I focused most on {*determine what part of project I was most
-            involved in if any*}
-        -   Ariba Razzaq:
+    -   Team Intro\
+        Ariba Razzaq:\
+        Ana Collado:\
+        Sabina Baraili:
     -   Problem Description:
     -   App Introduction:
 -   Record thorough demo of product\
@@ -327,8 +329,4 @@ Tasks:
 
 --------------------------------------------------------------------------------
 
-## Bibliography:
-
-McKee, Amberle. *Mastering Shiny for Python: A Beginner’s Guide to Building
-Interactive Web Applications*, DataCamp, 15 Dec. 2023,
-<https://www.datacamp.com/tutorial/mastering-shiny-for-python-a-beginners-guide-to-building-interactive-web-applications>.
+## 

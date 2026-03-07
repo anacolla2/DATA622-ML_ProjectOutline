@@ -3,7 +3,7 @@
     "path": "~/Cloud_Atlas/02_Projects/01_School/Spring2026/DATA622-Project/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "85138321",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1772751588795.0,
@@ -19,14 +19,14 @@
         "scrollLine": "0",
         "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "215:0"
+        "rmdVisualModeLocation": "12594:6050.5556640625"
     },
     "folds": "",
-    "lastKnownWriteTime": 1772866118,
+    "lastKnownWriteTime": 1772867295,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1772866118835,
+    "last_content_update": 1772867295948,
     "read_only": false,
     "read_only_alternatives": []
 }
