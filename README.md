@@ -1,7 +1,7 @@
 # DATA622-ML_ProjectOutline
 Machine Learning Group Project to develop app. 
 
-<a href="https://anacolla2.github.io/DATA622-ML_ProjectOutline/">GITHUB PAGES- Project Outline</a>
+<a href="https://anacolla2.github.io/DATA622-ML_ProjectOutline/">Project Proposal</a>
 ____
 #### Google Docs
 <a href="https://docs.google.com/document/d/1nHxMm5pH66YhX894JmqK3d-2tTuu8DraojJvufBJ0mE/edit?usp=sharing"> Link </a>
