@@ -1,7 +1,7 @@
 ---
 title: "Home Loan Advisor"
 subtitle: "A Consumer-facing Morgage Risk Intelligence App "
-author: "Ariba Razzaq, Ana Collado, Sabina Baralli"
+author: "Ariba Razzaq, Ana Collado, Sabina Baralli, Jayden Jiang"
 format: html
 editor: visual
 jupyter: python3
@@ -10,8 +10,8 @@ jupyter: python3
 ## **1. Problem Definition**
 
 Buying a home is the largest financial decision most people will ever make, yet
-consumers rarely have access to the same analytical tools that banks and lenders
-use when evaluating mortgage applications. Most prospective homebuyers do not
+consumers rarely have access to the same analytic tools that banks and lenders
+use when evaluating mortgage applications. Most prospective home buyers do not
 know how their personal financial profile — income, credit score, debt load,
 down payment — affects their real risk of being unable to repay a mortgage, or
 how changes in interest rates and economic conditions might impact that risk
