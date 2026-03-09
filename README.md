@@ -1,4 +1,4 @@
-# DATA622-ML_ProjectOutline
+# DATA622-ML_Project
 Machine Learning Group Project to develop app. 
 
 <a href="https://anacolla2.github.io/DATA622-ML_ProjectOutline/">Project Proposal</a>
